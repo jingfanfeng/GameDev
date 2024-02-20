@@ -1,2 +1,2 @@
 # GameDev
-our game for our company
+Our game for our company
